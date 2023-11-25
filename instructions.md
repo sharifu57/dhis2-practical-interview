@@ -15,6 +15,8 @@ please read this instruction for executing this file.
 
 7. Dont forget to npm install
 
+8. npm run dev
+
 
 
 
